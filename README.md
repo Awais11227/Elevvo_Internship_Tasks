@@ -1,4 +1,4 @@
-# 📊 ` Elevvo_Internship_Tasks  – Data Analytics Tasks  `.
+# 📊 ` Elevvo_Internship_Tasks  – Data Analytics Tasks  `
 
 This repository contains all the tasks I completed during my **Elevoo Internship** in Data Analytics. Each task focuses on applying analytical, statistical, and visualization techniques using different tools such as Excel, Python, SQL, and BI platforms.  
 
