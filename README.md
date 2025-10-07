@@ -4,7 +4,7 @@ This repository contains all the tasks I completed during my **Elevoo Internship
 
 ---
 
-## 📝 Internship Tasks
+## 📝 Internship Tasks.
 
 ### **Task 1: Sales Performance Dashboard (Excel)**  
 - Built an interactive dashboard in **Excel** to track sales performance.  
