@@ -89,4 +89,4 @@ This internship allowed me to gain **hands-on experience in real-world data anal
 Each task reflects a different aspect of the **data analytics lifecycle**, from raw data processing to business decision-making support.  
 
 # **Author**
-##     `Awais Manzoor`
+##     `Awais Manzoor`.
